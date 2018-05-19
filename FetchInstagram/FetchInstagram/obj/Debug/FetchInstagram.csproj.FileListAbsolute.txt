@@ -1,0 +1,12 @@
+G:\SideProjects\csharp\InstagramColumn\FetchInstagram\FetchInstagram\bin\Debug\FetchInstagram.exe.config
+G:\SideProjects\csharp\InstagramColumn\FetchInstagram\FetchInstagram\bin\Debug\FetchInstagram.exe
+G:\SideProjects\csharp\InstagramColumn\FetchInstagram\FetchInstagram\bin\Debug\FetchInstagram.pdb
+G:\SideProjects\csharp\InstagramColumn\FetchInstagram\FetchInstagram\bin\Debug\MySql.Data.dll
+G:\SideProjects\csharp\InstagramColumn\FetchInstagram\FetchInstagram\bin\Debug\MySql.Data.xml
+G:\SideProjects\csharp\InstagramColumn\FetchInstagram\FetchInstagram\obj\Debug\FetchInstagram.csprojResolveAssemblyReference.cache
+G:\SideProjects\csharp\InstagramColumn\FetchInstagram\FetchInstagram\obj\Debug\FetchInstagram.Form1.resources
+G:\SideProjects\csharp\InstagramColumn\FetchInstagram\FetchInstagram\obj\Debug\FetchInstagram.Properties.Resources.resources
+G:\SideProjects\csharp\InstagramColumn\FetchInstagram\FetchInstagram\obj\Debug\FetchInstagram.csproj.GenerateResource.Cache
+G:\SideProjects\csharp\InstagramColumn\FetchInstagram\FetchInstagram\obj\Debug\FetchInstagram.csproj.CoreCompileInputs.cache
+G:\SideProjects\csharp\InstagramColumn\FetchInstagram\FetchInstagram\obj\Debug\FetchInstagram.exe
+G:\SideProjects\csharp\InstagramColumn\FetchInstagram\FetchInstagram\obj\Debug\FetchInstagram.pdb
